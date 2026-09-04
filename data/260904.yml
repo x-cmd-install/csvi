@@ -1,11 +1,13 @@
 about:
-  description: Csvi - A terminal CSV editor
+  description:
+  |
+    Csvi - A terminal CSV editor
   license: MIT
   homepage: https://hymkor.github.io/csvi/
   head: 8c8d2c5
   archived: false
   latestVersion: v1.23.3
-  collectedAt: 2026-09-04T04:18:22Z
+  collectedAt: 2026-09-04T19:24:26Z
 timeline:
   created: 2019-10-26
   lastCommit: 2026-08-26
@@ -16,16 +18,24 @@ popularity:
   fork: 5
   release: 49
   contributor: 1
-  pullRequest: 0
+  pullRequest: 103
   issue: 12
 language:
   Go: 99434
   Makefile: 2601
   PowerShell: 397
-totalLine: 102432
+totalBytes: 102432
 recent:
   last30d:
     since: 2026-08-05
+    release: 1
+    mergedPR: 2
+    openPR: 0
+    closedIssue: 0
+    openIssue: 1
+    commit: 8
+  last60d:
+    since: 2026-07-06
     release: 1
     mergedPR: 2
     openPR: 0
@@ -56,3 +66,21 @@ recent:
     closedIssue: 8
     openIssue: 1
     commit: 393
+  last720d:
+    since: 2024-09-14
+    release: 26
+    mergedPR: 102
+    openPR: 0
+    closedIssue: 9
+    openIssue: 1
+    commit: 563
+total:
+  release: 49
+  mergedPR: 103
+  openPR: 0
+  closedIssue: 11
+  openIssue: 1
+  commit: 976
+---
+---
+
