@@ -7,7 +7,7 @@ about:
   head: 8c8d2c5
   archived: false
   latestVersion: v1.23.3
-  collectedAt: 2026-09-04T19:24:26Z
+  collectedAt: 2026-09-04T21:07:04Z
 timeline:
   created: 2019-10-26
   lastCommit: 2026-08-26
@@ -82,5 +82,43 @@ total:
   openIssue: 1
   commit: 976
 ---
+path: /home/runner/.x-repo/github.com/hymkor/csvi
+collectedAt: 2026-09-04T21:07:04Z
+loc:
+  Go:
+    code: 4335
+    comments: 52
+    blanks: 433
+    files: 37
+  Html:
+    code: 2080
+    comments: 6
+    blanks: 17
+    files: 4
+  Makefile:
+    code: 55
+    comments: 0
+    blanks: 14
+    files: 1
+  Json:
+    code: 28
+    comments: 0
+    blanks: 0
+    files: 1
+  PowerShell:
+    code: 11
+    comments: 0
+    blanks: 1
+    files: 1
+  Markdown:
+    code: 0
+    comments: 1384
+    blanks: 476
+    files: 4
+total:
+  code: 10289
+  comments: 1446
+  blanks: 1701
+  files: 48
 ---
 
