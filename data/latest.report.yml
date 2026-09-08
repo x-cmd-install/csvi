@@ -5,7 +5,7 @@ about:
   head: 8c8d2c5
   archived: false
   latestVersion: "v1.23.3"
-  collectedAt: 2026-09-08T02:18:36Z
+  collectedAt: 2026-09-08T05:17:37Z
 timeline:
   created: 2019-10-26
   lastCommit: 2026-08-26
@@ -81,7 +81,7 @@ total:
   commit: 976
 ---
 path: /home/runner/.x-repo/github.com/hymkor/csvi
-collectedAt: 2026-09-08T02:18:38Z
+collectedAt: 2026-09-08T05:17:38Z
 loc:
   Go:
     code: 4335
