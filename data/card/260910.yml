@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.23.3"
   latestRelease: "v1.23.3"
   latestPrerelease: "v1.23.0"
-  collectedAt: 2026-09-10T05:17:48Z
+  collectedAt: 2026-09-10T20:45:06Z
 timeline:
   created: 2019-10-26
   lastCommit: 2026-08-26
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-08-26
   lastPrerelease: 2026-03-14
 popularity:
-  star: 187
+  star: 188
   watcher: 4
   fork: 5
   release: 49
@@ -85,7 +85,7 @@ total:
   commit: 976
 ---
 path: /home/runner/.x-repo/github.com/hymkor/csvi
-collectedAt: 2026-09-10T05:17:49Z
+collectedAt: 2026-09-10T20:45:07Z
 loc:
   Go:
     code: 4335
