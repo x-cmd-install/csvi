@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 1477624,
       "digest": "sha256:9d84da12e05588ea18cf4ee64f944c1d2809164e92f2d6f58e01beddbfdb36f0",
-      "download_count": 48,
+      "download_count": 49,
       "created_at": "2026-08-26T05:18:39Z",
       "updated_at": "2026-08-26T05:18:40Z",
       "browser_download_url": "https://github.com/hymkor/csvi/releases/download/v1.23.3/csvi-v1.23.3-linux-amd64.zip"
