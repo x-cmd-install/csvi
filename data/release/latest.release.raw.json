@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 1462784,
       "digest": "sha256:6d6f63229a4fad64f517331a63caa519aac3e8cefc5f53b0fe291c7b472888f8",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-08-26T05:18:39Z",
       "updated_at": "2026-08-26T05:18:40Z",
       "browser_download_url": "https://github.com/hymkor/csvi/releases/download/v1.23.3/csvi-v1.23.3-freebsd-amd64.zip"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 1439056,
       "digest": "sha256:14b203f1f55b9ea1b21d85895a7c48b5ff58e5cb6d59c1ce8e722e4e01d3f59c",
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2026-08-26T05:18:39Z",
       "updated_at": "2026-08-26T05:18:40Z",
       "browser_download_url": "https://github.com/hymkor/csvi/releases/download/v1.23.3/csvi-v1.23.3-linux-386.zip"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 1477624,
       "digest": "sha256:9d84da12e05588ea18cf4ee64f944c1d2809164e92f2d6f58e01beddbfdb36f0",
-      "download_count": 56,
+      "download_count": 57,
       "created_at": "2026-08-26T05:18:39Z",
       "updated_at": "2026-08-26T05:18:40Z",
       "browser_download_url": "https://github.com/hymkor/csvi/releases/download/v1.23.3/csvi-v1.23.3-linux-amd64.zip"
