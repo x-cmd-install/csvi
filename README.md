@@ -48,12 +48,12 @@ Total: **6,509** lines of code across **44** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 1 | 2 | 0 | 0 | 1 | 8 |
-| last60d | 2026-07-13 | 1 | 2 | 0 | 0 | 1 | 8 |
-| 90d | 2026-06-13 | 1 | 2 | 0 | 0 | 1 | 8 |
-| last180d | 2026-03-15 | 3 | 12 | 0 | 0 | 1 | 42 |
-| 360d | 2025-09-16 | 21 | 102 | 0 | 8 | 1 | 393 |
-| last720d | 2024-09-21 | 26 | 102 | 0 | 9 | 1 | 563 |
+| 30d | 2026-08-13 | 1 | 2 | 0 | 0 | 1 | 8 |
+| last60d | 2026-07-14 | 1 | 2 | 0 | 0 | 1 | 8 |
+| 90d | 2026-06-14 | 1 | 2 | 0 | 0 | 1 | 8 |
+| last180d | 2026-03-16 | 3 | 12 | 0 | 0 | 1 | 42 |
+| 360d | 2025-09-17 | 21 | 102 | 0 | 8 | 1 | 393 |
+| last720d | 2024-09-22 | 26 | 102 | 0 | 9 | 1 | 563 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for csvi lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T19:30:06Z._
+_Snapshot: `data/card/260912.yml` · 2026-09-12T05:09:04Z._
