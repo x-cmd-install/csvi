@@ -38,22 +38,22 @@ Total: **6,509** lines of code across **44** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 188 · **Forks**: 5 · **Open issues**: 12 · **Contributors**: 1
+- **Stars**: 188 · **Forks**: 5 · **Open issues**: 13 · **Contributors**: 1
 
 ## Totals (cumulative)
 
-- **Releases**: 49 · **Merged PRs**: 103 · **Open PRs**: 0 · **Closed issues**: 11 · **Open issues**: 1 · **Commits**: 976
+- **Releases**: 49 · **Merged PRs**: 103 · **Open PRs**: 1 · **Closed issues**: 12 · **Open issues**: 1 · **Commits**: 976
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-24 | 1 | 2 | 0 | 0 | 1 | 0 |
-| last60d | 2026-07-25 | 1 | 2 | 0 | 0 | 1 | 8 |
-| 90d | 2026-06-25 | 1 | 2 | 0 | 0 | 1 | 8 |
-| last180d | 2026-03-27 | 2 | 6 | 0 | 0 | 1 | 21 |
-| 360d | 2025-09-28 | 21 | 102 | 0 | 8 | 1 | 392 |
-| last720d | 2024-10-03 | 26 | 102 | 0 | 9 | 1 | 563 |
+| 30d | 2026-08-25 | 1 | 2 | 1 | 0 | 1 | 0 |
+| last60d | 2026-07-26 | 1 | 2 | 1 | 1 | 1 | 8 |
+| 90d | 2026-06-26 | 1 | 2 | 1 | 1 | 1 | 8 |
+| last180d | 2026-03-28 | 2 | 6 | 1 | 1 | 1 | 21 |
+| 360d | 2025-09-29 | 21 | 102 | 1 | 9 | 1 | 392 |
+| last720d | 2024-10-04 | 26 | 102 | 1 | 10 | 1 | 563 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for csvi lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260923.yml` · 2026-09-23T05:35:12Z._
+_Snapshot: `data/card/260924.yml` · 2026-09-24T05:08:44Z._
