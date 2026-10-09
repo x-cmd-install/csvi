@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1522657,
       "digest": "sha256:5029dd49b0bf76214b4e5611ce57e6e189ebdd2c005858bebefc4cc09734eb12",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-09-24T14:18:15Z",
       "updated_at": "2026-09-24T14:18:17Z",
       "browser_download_url": "https://github.com/hymkor/csvi/releases/download/v1.24.0/csvi-v1.24.0-darwin-amd64.zip"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 1486043,
       "digest": "sha256:653a3fb656ae468d803130716f13298ca8e6c2258ea0f465fd7416df2da34c49",
-      "download_count": 71,
+      "download_count": 72,
       "created_at": "2026-09-24T14:18:15Z",
       "updated_at": "2026-09-24T14:18:16Z",
       "browser_download_url": "https://github.com/hymkor/csvi/releases/download/v1.24.0/csvi-v1.24.0-linux-amd64.zip"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 1575156,
       "digest": "sha256:ee1af90491ba3851a1e018cefb031a7a9e8bb4cddc625e699f518e9d2e880909",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-09-24T14:18:17Z",
       "updated_at": "2026-09-24T14:18:18Z",
       "browser_download_url": "https://github.com/hymkor/csvi/releases/download/v1.24.0/csvi-v1.24.0-windows-386.zip"
