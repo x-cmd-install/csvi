@@ -14,11 +14,11 @@ x install csvi
 
 ## Code insight
 
-Total: **7,075** lines of code across **47** files in the top 5 languages.
+Total: **7,091** lines of code across **47** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 4,881 | 145 | 487 | 40 |
+| Go | 4,897 | 145 | 487 | 40 |
 | Html | 2,100 | 6 | 17 | 4 |
 | Makefile | 55 | 0 | 14 | 1 |
 | Json | 28 | 0 | 0 | 1 |
@@ -33,7 +33,7 @@ Total: **7,075** lines of code across **47** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.24.0` (2026-09-24)
-- **Last commit**: 2026-09-24
+- **Last commit**: 2026-10-16
 - **Assets in release**: 7
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **7,075** lines of code across **47** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 50 · **Merged PRs**: 105 · **Open PRs**: 0 · **Closed issues**: 13 · **Open issues**: 1 · **Commits**: 985
+- **Releases**: 50 · **Merged PRs**: 106 · **Open PRs**: 0 · **Closed issues**: 13 · **Open issues**: 1 · **Commits**: 989
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-15 | 1 | 2 | 0 | 1 | 1 | 6 |
-| last60d | 2026-08-16 | 2 | 4 | 0 | 2 | 1 | 15 |
-| 90d | 2026-07-17 | 2 | 4 | 0 | 2 | 1 | 15 |
-| last180d | 2026-04-18 | 2 | 6 | 0 | 2 | 1 | 22 |
-| 360d | 2025-10-20 | 20 | 104 | 0 | 10 | 1 | 326 |
-| last720d | 2024-10-25 | 24 | 104 | 0 | 10 | 1 | 550 |
+| 30d | 2026-09-16 | 1 | 3 | 0 | 1 | 1 | 9 |
+| last60d | 2026-08-17 | 2 | 5 | 0 | 2 | 1 | 18 |
+| 90d | 2026-07-18 | 2 | 5 | 0 | 2 | 1 | 18 |
+| last180d | 2026-04-19 | 2 | 7 | 0 | 2 | 1 | 25 |
+| 360d | 2025-10-21 | 20 | 105 | 0 | 10 | 1 | 329 |
+| last720d | 2024-10-26 | 24 | 105 | 0 | 10 | 1 | 554 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for csvi lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261015.yml` · 2026-10-15T05:04:16Z._
+_Snapshot: `data/card/261016.yml` · 2026-10-16T04:58:20Z._
