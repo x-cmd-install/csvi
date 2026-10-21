@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 1499847,
       "digest": "sha256:1743c9bf6d7c7d9e1bbed2f364245caaa45970e3bd2eca8f244f75afaeff9037",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-10-16T06:05:37Z",
       "updated_at": "2026-10-16T06:05:38Z",
       "browser_download_url": "https://github.com/hymkor/csvi/releases/download/v1.25.0/csvi-v1.25.0-darwin-arm64.zip"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 1485802,
       "digest": "sha256:3262e4611c70e081818f7f63f653b5184cbde00480c1f7af48e2733f9cbb8473",
-      "download_count": 30,
+      "download_count": 33,
       "created_at": "2026-10-16T06:05:37Z",
       "updated_at": "2026-10-16T06:05:38Z",
       "browser_download_url": "https://github.com/hymkor/csvi/releases/download/v1.25.0/csvi-v1.25.0-linux-amd64.zip"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 1592314,
       "digest": "sha256:18e5e7decdf0f59fa8ac2851220d36a30c0fbf8d2debe5635cbf60a8dfe1449d",
-      "download_count": 12,
+      "download_count": 14,
       "created_at": "2026-10-16T06:05:39Z",
       "updated_at": "2026-10-16T06:05:40Z",
       "browser_download_url": "https://github.com/hymkor/csvi/releases/download/v1.25.0/csvi-v1.25.0-windows-amd64.zip"
