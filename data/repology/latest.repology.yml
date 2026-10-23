@@ -1,0 +1,12 @@
+- repo: aur
+  srcname: csvi-bin
+  binname: csvi-bin
+  visiblename: csvi-bin
+  version: 1.25.0
+  origversion: 1.25.0-1
+  status: unique
+  summary: Terminal CSV Editor
+  maintainers:
+    - dominiquini@aur
+  licenses:
+    - MIT
