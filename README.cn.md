@@ -14,12 +14,12 @@ x install csvi
 
 ## 代码洞察
 
-合计: **7,247** 行代码（覆盖前 5 种语言、共 **48** 个文件）。
+合计: **7,277** 行代码（覆盖前 5 种语言、共 **48** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
 | Go | 5,037 | 145 | 498 | 41 |
-| Html | 2,116 | 6 | 17 | 4 |
+| Html | 2,146 | 6 | 17 | 4 |
 | Makefile | 55 | 0 | 14 | 1 |
 | Json | 28 | 0 | 0 | 1 |
 | PowerShell | 11 | 0 | 1 | 1 |
@@ -32,8 +32,8 @@ x install csvi
 
 ## 发布
 
-- **最新版本**: `v1.25.0` (2026-10-16)
-- **最近提交**: 2026-11-26
+- **最新版本**: `v1.26.0` (2026-11-27)
+- **最近提交**: 2026-11-27
 - **Release 含资产**: 7 个
 
 ## 流行度
@@ -42,30 +42,30 @@ x install csvi
 
 ## 累计统计
 
-- **发布数**: 51 · **已合并 PR**: 113 · **开放 PR**: 0 · **已关闭 issue**: 14 · **开放 issue**: 4 · **提交数**: 1017
+- **发布数**: 52 · **已合并 PR**: 113 · **开放 PR**: 0 · **已关闭 issue**: 14 · **开放 issue**: 4 · **提交数**: 1026
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 0 | 5 | 0 | 0 | 4 | 15 |
-| last60d | 2026-09-27 | 1 | 8 | 0 | 1 | 4 | 24 |
-| 90d | 2026-08-28 | 2 | 10 | 0 | 2 | 4 | 31 |
-| last180d | 2026-05-30 | 3 | 12 | 0 | 3 | 4 | 39 |
-| 360d | 2025-12-01 | 20 | 104 | 0 | 10 | 4 | 308 |
-| last720d | 2024-12-06 | 25 | 112 | 0 | 11 | 4 | 582 |
+| 30d | 2026-10-28 | 1 | 5 | 0 | 0 | 4 | 24 |
+| last60d | 2026-09-28 | 2 | 8 | 0 | 1 | 4 | 33 |
+| 90d | 2026-08-29 | 3 | 10 | 0 | 2 | 4 | 40 |
+| last180d | 2026-05-31 | 4 | 12 | 0 | 3 | 4 | 48 |
+| 360d | 2025-12-02 | 21 | 104 | 0 | 6 | 4 | 317 |
+| last720d | 2024-12-07 | 26 | 112 | 0 | 11 | 4 | 591 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [csvi-v1.25.0-darwin-amd64.zip](https://github.com/hymkor/csvi/releases/download/v1.25.0/csvi-v1.25.0-darwin-amd64.zip) | 1.5 MiB | `native/darwin/x64` |
-| [csvi-v1.25.0-darwin-arm64.zip](https://github.com/hymkor/csvi/releases/download/v1.25.0/csvi-v1.25.0-darwin-arm64.zip) | 1.4 MiB | `native/darwin/arm64` |
-| [csvi-v1.25.0-freebsd-amd64.zip](https://github.com/hymkor/csvi/releases/download/v1.25.0/csvi-v1.25.0-freebsd-amd64.zip) | 1.4 MiB | `other` |
-| [csvi-v1.25.0-linux-386.zip](https://github.com/hymkor/csvi/releases/download/v1.25.0/csvi-v1.25.0-linux-386.zip) | 1.4 MiB | `other` |
-| [csvi-v1.25.0-linux-amd64.zip](https://github.com/hymkor/csvi/releases/download/v1.25.0/csvi-v1.25.0-linux-amd64.zip) | 1.4 MiB | `native/linux/x64` |
-| [csvi-v1.25.0-windows-386.zip](https://github.com/hymkor/csvi/releases/download/v1.25.0/csvi-v1.25.0-windows-386.zip) | 1.5 MiB | `native/win/x64` |
-| [csvi-v1.25.0-windows-amd64.zip](https://github.com/hymkor/csvi/releases/download/v1.25.0/csvi-v1.25.0-windows-amd64.zip) | 1.5 MiB | `native/win/x64` |
+| [csvi-v1.26.0-darwin-amd64.zip](https://github.com/hymkor/csvi/releases/download/v1.26.0/csvi-v1.26.0-darwin-amd64.zip) | 1.5 MiB | `native/darwin/x64` |
+| [csvi-v1.26.0-darwin-arm64.zip](https://github.com/hymkor/csvi/releases/download/v1.26.0/csvi-v1.26.0-darwin-arm64.zip) | 1.4 MiB | `native/darwin/arm64` |
+| [csvi-v1.26.0-freebsd-amd64.zip](https://github.com/hymkor/csvi/releases/download/v1.26.0/csvi-v1.26.0-freebsd-amd64.zip) | 1.4 MiB | `other` |
+| [csvi-v1.26.0-linux-386.zip](https://github.com/hymkor/csvi/releases/download/v1.26.0/csvi-v1.26.0-linux-386.zip) | 1.4 MiB | `other` |
+| [csvi-v1.26.0-linux-amd64.zip](https://github.com/hymkor/csvi/releases/download/v1.26.0/csvi-v1.26.0-linux-amd64.zip) | 1.4 MiB | `native/linux/x64` |
+| [csvi-v1.26.0-windows-386.zip](https://github.com/hymkor/csvi/releases/download/v1.26.0/csvi-v1.26.0-windows-386.zip) | 1.5 MiB | `native/win/x64` |
+| [csvi-v1.26.0-windows-amd64.zip](https://github.com/hymkor/csvi/releases/download/v1.26.0/csvi-v1.26.0-windows-amd64.zip) | 1.5 MiB | `native/win/x64` |
 
 ## 改进这些数据
 
@@ -76,4 +76,4 @@ csvi 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261126.yml` · 2026-11-26T09:38:10Z._
+_数据快照: `data/card/261127.yml` · 2026-11-27T09:23:32Z._
