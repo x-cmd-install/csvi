@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 1496792,
       "digest": "sha256:4ec82062de9f8b6ad9384730ce66a4b5ccfff1fa87378e8cfe800fbb9ba53291",
-      "download_count": 9,
+      "download_count": 23,
       "created_at": "2026-11-27T04:29:23Z",
       "updated_at": "2026-11-27T04:29:24Z",
       "browser_download_url": "https://github.com/hymkor/csvi/releases/download/v1.26.0/csvi-v1.26.0-linux-amd64.zip"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 1602763,
       "digest": "sha256:c6959ccd91815e22e641b0a0cca7962eed54d1569c7b3efcaa3eb3397c6f964a",
-      "download_count": 3,
+      "download_count": 8,
       "created_at": "2026-11-27T04:29:25Z",
       "updated_at": "2026-11-27T04:29:26Z",
       "browser_download_url": "https://github.com/hymkor/csvi/releases/download/v1.26.0/csvi-v1.26.0-windows-amd64.zip"
